@@ -64,4 +64,4 @@ Easy Ensemble Classifier
 
 ## Summary: 
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+With over 93% balanced accuarcy, the Easy Ensemble Classifier is the best method to use to assess the credit risk.
