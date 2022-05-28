@@ -64,4 +64,4 @@ Easy Ensemble Classifier
 
 ## Summary: 
 
-With over 93% balanced accuarcy, the Easy Ensemble Classifier is the best method to use to assess the credit risk.
+Both the Random Forest and Easy Ensemble Classifiers perform well with 92% balanced accuracy, whereas the other methods fall short of an acceptable score. The Easy Ensemble Classifier is the best method to use to assess the credit risk.
