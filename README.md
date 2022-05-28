@@ -20,9 +20,9 @@ Reducing bias: BalancedRandomForestClassifier and EasyEnsembleClassifier
 
 ## Code
 
-credit_risk_resampling.ipynb (file)[credit_risk_resampling.ipynb]
+credit_risk_resampling.ipynb [file](credit_risk_resampling.ipynb)
 
-credit_risk_ensemble.ipynb (file)[credit_risk_ensemble.ipynb]
+credit_risk_ensemble.ipynb [file](credit_risk_ensemble.ipynb)
 
 
 ## Deliverables
