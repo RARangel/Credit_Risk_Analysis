@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Overview 
 
@@ -26,6 +26,14 @@ credit_risk_ensemble.ipynb [file](credit_risk_ensemble.ipynb)
 
 
 ## Deliverables
+
+- Deliverable 1: Use Resampling Models to Predict Credit Risk
+ 
+- Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+
+- Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+
+- Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
 ## Results six machine learning models. Use screenshots of your outputs to support your results.
 
