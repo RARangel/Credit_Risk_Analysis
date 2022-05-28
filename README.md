@@ -2,9 +2,13 @@
 
 ## Overview 
 
-### Objective: Use the credit card credit dataset from LendingClub, a peer-to-peer lending services company, and apply machine learning to assess credit card risk. 
+### Objective
 
-### Method: Use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling:  
+Use the credit card credit dataset from LendingClub, a peer-to-peer lending services company, and apply machine learning to assess credit card risk. 
+
+### Method 
+
+Use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling:  
 Oversampling: RandomOverSampler and SMOTE algorithms 
 Undersampling: ClusterCentroids algorithm 
 Combinatorial approach of over- and undersampling: SMOTEENN algorithm 
